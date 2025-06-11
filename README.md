@@ -46,25 +46,25 @@ This rich dataset enables comprehensive analysis of sales performance, customer 
 ## 📌 Dashboard Components
 
 ### 🌍 Sales by Region
-!Sales by Region  
+Sales by Region  
 A bar chart showing total sales across different regions. Each bar is color-coded for easy comparison.
 
 ---
 
 ### 🧮 Profit Margin by Category
-!Profit Margin by Category  
+Profit Margin by Category  
 A scatter plot visualizing profit margins across product categories (Furniture, Office Supplies, Technology). Color-coded by category.
 
 ---
 
 ### 🚚 Shipping Cost Analysis
-!Shipping Cost Analysis  
+Shipping Cost Analysis  
 A line chart tracking average shipping costs over time (2012–2015), segmented by shipping mode.
 
 ---
 
 ### ⚠️ Order Priority Breakdown
-!Order Priority Breakdown  
+Order Priority Breakdown  
 A pie chart illustrating the distribution of order priorities (Critical, High, Medium, Low), with percentage labels.
 
 ---
